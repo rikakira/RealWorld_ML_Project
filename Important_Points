@@ -1,0 +1,11 @@
+*Important Terms To Know Before Starting*
+1. MultiCollinearity- Multicollinearity is a term used to described two predictors that are quite close to each other and can be predicted from one another. 
+rad, tax, indus and nox fall in this category.
+2. Outliers- As the name suggests, it tells us how far a predictor is from another. There are of two types- Leverage and Distance. Wherein, leverage is the difference of 
+observation value and mean of predictor value and distance is the difference between preicted value and actual value.
+3. Residual- Difference between predicted value and observed value. They are randomly scattered, i.e. linear regression works fine for this dataset.
+
+**Features of Analysis**
+1. CRIM (Per Capita Crime Rate by Town) - This is an important factor which results in depletion of housing price as CRIM increases. It refers to the crime rate which exists in
+a town divided by the popultion.
+2. ZN (Proportion of Residential land zoned for lots over 25,000 sq. ft) - Even thn
