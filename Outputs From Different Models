@@ -1,0 +1,13 @@
+Outputs From Different Models
+
+1. Decision Tree:
+        Mean:  4.401682196186962
+        Standard Deviation:  0.8044184021527258
+
+2. Linear Regression:
+        Mean:  5.0297491662005145
+        Standard Deviation:  1.060631438626313
+        
+3. Random Forest Regression:
+        Mean:  3.3034899889360076
+        Standard Deviation:  0.7030527780119353
